@@ -1,1 +1,1 @@
-# SNHU_CS330_Computer_Graphics_and_Visualization_ProjectsShowCase
+## SNHU CS330 Computer Graphics and Visualization
