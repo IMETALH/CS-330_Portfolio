@@ -1,4 +1,4 @@
-# SNHU CS330 Computer Graphics and Visualization Show Case App
+# SNHU CS330 Computational Graphics and Visualization Show Case App
 ## Designing the software:
 Approaching software design involves a systematic and iterative process. Initially, to understand the project requirements and objectives I made sure I read through the requirements and identified the problem to be solved, the target audience, and any constraints or limitations.  Working on this project has helped me hone several design skills. I have gained a deeper understanding of system architecture, modular design, and component-based development. Additionally, I have learned to analyze and prioritize requirements, effectively communicate design decisions, and create user-friendly interfaces. The project also enhanced my skills in considering scalability, maintainability, and performance optimization during the design phase.
 
