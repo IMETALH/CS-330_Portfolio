@@ -14,6 +14,7 @@
 *.css
 *.js
 OpenGL_CS330_App\OpenGL_CS330_App\Libraries\glm\doc*
+OpenGL_CS330_App/OpenGL_CS330_App/Libraries/GLFW-64/docs*
 
 # Output data directory
 output/
