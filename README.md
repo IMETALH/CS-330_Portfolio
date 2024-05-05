@@ -6,7 +6,7 @@
 - [Scene Images](#scene-images)
   - [3D scene](#3d-scene)
   - [Source image](#scene-source-image)
-  - [Scene animation](#scene-animation)
+  - [Scene animation](#scene-animation-3d)
   - [Pyramid](#pyramid--this-is-not-part-of-the-final-project)
 
 ## Scene Images
