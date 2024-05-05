@@ -9,6 +9,12 @@
 .cproject
 .settings/
 
+# html, css, js docs
+*.html
+*.css
+*.js
+docs/
+
 # Output data directory
 output/
 
