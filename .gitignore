@@ -13,7 +13,7 @@
 *.html
 *.css
 *.js
-docs/
+OpenGL_CS330_App\OpenGL_CS330_App\Libraries\glm\doc*
 
 # Output data directory
 output/
