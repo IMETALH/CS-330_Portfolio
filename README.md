@@ -23,7 +23,7 @@
 
 ![Scene animation](docs/Final-Project.gif)
 
-### Pyramid. <br> (This is not part of the final project)
+### Pyramid (This is not part of the final project) <br> The first space I designed: All thanks to my Professor, hha
 
 ![Pyramid](docs/pyramid.png)
 
