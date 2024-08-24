@@ -23,7 +23,7 @@
 
 ![Scene animation](docs/Final-Project.gif)
 
-### Pyramid (This is not part of the final project) <br> The first space I designed: All thanks to my Professor, hha
+### Pyramid (This is not part of the final project) <br>  I'm still considering the species that will live in it, our ancestors? Ahha  
 
 ![Pyramid](docs/pyramid.png)
 
