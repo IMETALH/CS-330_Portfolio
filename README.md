@@ -41,4 +41,4 @@ Developing this program involved a combination of planning, coding, testing, and
 
 ### How can computer science help me in reaching my goals?
 
-The knowledge I gained from this course can be applied in various professional pathways. For example, in data analysis, data visualizations can help in conveying insights and patterns effectively. In user interface design, understanding visual perception and interaction principles will enable the creation of intuitive and user-friendly interfaces. In specializations such as software architecture and product design, data visualization can aid in prototyping and presenting ideas.
+The knowledge I gained from this course can be applied in various professional pathways. For example, in data analysis, data visualization can help in conveying insights and patterns effectively. In user interface design, understanding visual perception and interaction principles can enable the creation of intuitive and user-friendly interfaces. In specialization, such as software architecture and product design, data visualization can aid in prototyping and presenting ideas.
